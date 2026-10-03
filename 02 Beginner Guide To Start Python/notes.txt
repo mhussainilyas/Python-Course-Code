@@ -1,0 +1,8 @@
+What we Learn Today:
+   - Python as an Interpreted Language
+   - Python Standard Library
+   - Standard Library vs Third-Party Libraries
+   - pip (Python Package Manager)
+   - IDLE
+   - Python Launcher
+   - Supporting Files in Python
