@@ -1,0 +1,9 @@
+What we Learn Today:
+   - Programming
+   - Programming Languages
+   - Python Install / Download
+   - VS Code Install / Download
+   - Keywords v/s Words
+   - print() function
+   - double quotes ("") or single quotes ('') text
+   - Running our first python program
