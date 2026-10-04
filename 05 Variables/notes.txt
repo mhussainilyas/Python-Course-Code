@@ -1,0 +1,12 @@
+What we Learn Today:
+   - What is variables
+   - Rules for naming variables
+   - Avoid to use in variables name
+   - Types of cases
+   - Prefixes in variables name
+   - Dynamic type
+   - How to check type by using type() function
+   - Multiple Assignment
+   - Variables output
+   - How to delete a variable using "del" keyword
+   - Scope of variables
