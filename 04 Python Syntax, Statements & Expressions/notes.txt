@@ -1,0 +1,7 @@
+What we Learn Today:
+   - Python syntax
+   - How python works
+   - Statements
+   - Expressions
+   - Combination of statement and expression
+   - Output
