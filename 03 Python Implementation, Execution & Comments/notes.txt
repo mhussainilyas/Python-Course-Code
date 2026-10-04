@@ -1,0 +1,11 @@
+What we Learn Today:
+   - Python is case sensitive (A !== a)
+   - Python Language (Specification)
+   - Python Implementation
+   - CPython
+   - Some most common python implementations
+   - How python code is executed
+   - Comments in python programming
+   - Single line comments
+   - Inline comments
+   - multiple line comments
