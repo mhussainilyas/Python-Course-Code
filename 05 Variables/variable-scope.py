@@ -38,3 +38,16 @@ def xyz():
 xyz()
 
 print(x, y, z)
+
+# ======================
+#   Practical Question
+# ======================
+
+x = "Hussain"
+
+def showName():
+    x = "Suleman"
+    print(x)
+
+showName();
+print(f"value of x = {x}")
