@@ -1,0 +1,5 @@
+What we Learn Today:
+   - Input from user
+   - Data Types
+   - Primitive Data Types
+   - Non Primitive Data Types
