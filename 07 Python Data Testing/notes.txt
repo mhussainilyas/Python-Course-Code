@@ -1,0 +1,5 @@
+What we learn Today:
+   - Immutable Objects (string, tuple)
+   - Mutable Objects (list, set, dictionary)
+   - Why "Non Primitive Data Types" are also called "Referenece Data Types"
+   - Copy primitive or non primitive data types
