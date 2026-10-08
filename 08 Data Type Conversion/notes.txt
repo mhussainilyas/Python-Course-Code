@@ -1,0 +1,6 @@
+What we Learn Today:
+   - Type Constructor Functions
+   - Type Conversion / Type Casting
+   - Implicit Type Casting
+   - Explicit Type Casting
+   - Boolean Values Conversion (1 = True, 0 = False)
