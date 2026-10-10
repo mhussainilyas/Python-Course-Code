@@ -1,0 +1,15 @@
+What we Learn Today:
+   - What is numbers.
+   - Types of numbers (integer, float, complex)
+   - Numbers type conversion
+   - Numbers built-in Functions
+   - modules in Python
+   - How to import/use modules
+   - Math module in Python
+   - Random module in Python
+   - Decimal module in Python
+   - range() function
+   - Slicing of range() function
+   - Membership test in range() function
+   - Length of range() function
+   - Scientific numbers
